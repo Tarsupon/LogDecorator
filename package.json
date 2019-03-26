@@ -1,0 +1,22 @@
+{
+  "name": "logdecorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarsupon/LogDecorator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarsupon/LogDecorator/issues"
+  },
+  "homepage": "https://github.com/Tarsupon/LogDecorator#readme",
+  "dependencies": {
+    "node-ts": "^5.0.0"
+  }
+}
